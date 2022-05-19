@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/drawable/bg_success_dialog.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/drawable/btn_dark_filled.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/drawable/btn_onrange.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/drawable/dashboarh_item_1_background.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/drawable/end_view_background.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/drawable/shape.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_add_question_toan.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_add_question_van.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_detail_trac_nghiem_toan.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_detail_trac_nghiem_van.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_ket_qua.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_list_trac_nghiem_toan.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_list_trac_nghiem_van.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_processbar_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_quanly_trac_nghiem.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_ready_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_register_user.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/delete_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/dialog_fail.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/dialog_success.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/fragment_second.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/fragment_tai_khoan.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/fragment_tai_lieu.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/fragment_trac_nghiem.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/fragment_trang_chu.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/item_user.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/list_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/process_bar.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/profile_item.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/layout/test.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/menu/menu_bottom.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/OneDrive/Desktop/17dtha2_aptracnghiem/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.187" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
